@@ -1,1 +1,3 @@
-hello test
+Check data every day.
+Follow up with friends.
+Add the data on 23rd to gitHub
