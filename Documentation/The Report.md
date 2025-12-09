@@ -70,18 +70,28 @@ When teams follow the conventional Light-first approach and add Dark Mode suppor
 When we compare the extremes with the 18% who always use the feature and the 13% who never use it, the gap of just over 10% on each side indicates that user preferences are balanced. This makes it difficult to justify choosing only one mode as the universal default.
 However, since 18% (always) is still higher than 13% (never), and 37% (frequently) is higher than 32% (sometimes), the overall trend leans slightly toward higher usage. Therefore, our recommendation is to support both Dark Mode and Light Mode, while giving priority to Dark Mode based on its relatively stronger usage patterns.
 
-![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Screen%201.png)
+![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen1.png)
 
 
 **2: Preferred Mode:** This gives us dark mode as the clear leader with over 60% leaning towards the dark approach. We can conclude that we should have dark mode first but have light mode close to 40%, which is a considerable number of decisions making.
 
+![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen2.png)
+
 **3: Eye strain difference:** In this Dark is a clear leader with nearly 50% stating this helps with eye strain compared to the lighter alternative.
+
+![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen3.png)
 
 **4: Visually Attractive:** Our survey says 55% of users prefer dark mode over the visual appeal 55 vs 45 is not a significant difference to stick to one more when you build the application. This note makes it equally important to build both modes with the same focus.
 
+![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen4.png)
+
 **5: Readability of Dark vs Light:** 30% of the users in that largest group say there is no difference in dark or light. On the questions on better or worse with dark screens users prefer the darker screen.
 
+![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen5.png)
+
 **6: Comfort scale on the preferred mode:** This survey shows that users stick to the preferred mode for longer duration. Around 60% of users are between 7 and 10 which proves this point.
+
+![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen6.png)
 
 # Other studies
 
