@@ -69,7 +69,9 @@ When teams follow the conventional Light-first approach and add Dark Mode suppor
 **1: Use of dark Mode:** The data shows that 37% of users access the feature frequently, making it the largest group. The next highest is 32%, who say they use the feature sometimes, followed by 18% who report using it always.
 When we compare the extremes with the 18% who always use the feature and the 13% who never use it, the gap of just over 10% on each side indicates that user preferences are balanced. This makes it difficult to justify choosing only one mode as the universal default.
 However, since 18% (always) is still higher than 13% (never), and 37% (frequently) is higher than 32% (sometimes), the overall trend leans slightly toward higher usage. Therefore, our recommendation is to support both Dark Mode and Light Mode, while giving priority to Dark Mode based on its relatively stronger usage patterns.
+
 ! (Screen%201.png)
+
 **2: Preferred Mode:** This gives us dark mode as the clear leader with over 60% leaning towards the dark approach. We can conclude that we should have dark mode first but have light mode close to 40%, which is a considerable number of decisions making.
 
 **3: Eye strain difference:** In this Dark is a clear leader with nearly 50% stating this helps with eye strain compared to the lighter alternative.
