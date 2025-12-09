@@ -72,7 +72,7 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 !(https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Screen%201.png)
 
-![The San Juan Mountains are beautiful](/image/Screen1.png "San Juan Mountains")
+!(/image/Screen1.png "San Juan Mountains")
 
 **2: Preferred Mode:** This gives us dark mode as the clear leader with over 60% leaning towards the dark approach. We can conclude that we should have dark mode first but have light mode close to 40%, which is a considerable number of decisions making.
 
