@@ -1,4 +1,4 @@
-Dark Mode vs Light Mode or Both
+# Dark Mode vs Light Mode or Both
 
 [Team Declaration 1](#_Toc181749601)
 
