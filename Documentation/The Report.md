@@ -147,6 +147,8 @@ Based on these insights, our recommendation is that device and application devel
 
 However, we also recognize that certain applications may justify prioritizing a single mode either Dark or Light depending on the app's purpose, target users, and usage environment. In such cases, choosing one mode can enhance clarity, usability, and user experience.
 
+---
+
 ## Reflection
 
 **Team Process:** Our team applied key Agile principles throughout the project to maintain steady progress and effective collaboration. We held a 15-minute daily stand-up to share updates, identify challenges, and move tasks across our planning board. We also conducted weekly sprint planning sessions to define our goals and allocate responsibilities for the upcoming week. At the end of each sprint, we held retrospectives to reflect on what went well, what needed improvement, and how we could adjust our approach moving forward.
@@ -164,6 +166,8 @@ The **survey** ran from 6 Nov to 20 Nov, and all team members submitted their in
 Another significant challenge was using GitHub and version control, as all of us were new to these tools. Setting it up, understanding branching, and merging files initially caused delays and confusion. However, with patience, internal guidance, and continuous experimentation, we gradually became more comfortable with the tool. Overcoming this learning curve was a key success in our collaboration.
 
 Despite these challenges, our team worked cohesively. Agile practices-especially daily stand-ups and clear sprint planning-helped reduce miscommunication and ensured steady progress. The structured workflow, combined with teamwork and adaptability, allowed us to complete the project efficiently and deliver meaningful findings.
+
+---
 
 ## References and Appendices
 
@@ -183,7 +187,6 @@ Despite these challenges, our team worked cohesively. Agile practices-especially
 
 - Google Search (2025) Used to find research on related topics. Available at: [https://www.google.com](https://www.google.com/) (Accessed: \[26 Nov 2025\]).
 
----
 
 ### Appendices
 
