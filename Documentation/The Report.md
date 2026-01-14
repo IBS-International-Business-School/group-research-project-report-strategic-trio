@@ -116,6 +116,8 @@ The results suggest that the users prefer dark mode over light mode but are not 
 
 ### Visualization
 
+We will see some graphs to understand the data in simple way that will help understand the finding mostly with the help of Pie Graph.
+
 **1: Use of dark Mode:** The data shows that 37% of users access the feature frequently, making it the largest group. The next highest is 32%, who say they use the feature sometimes, followed by 18% who report using it always.
 When we compare the extremes with the 18% who always use the feature and the 13% who never use it, the gap of just over 10% on each side indicates that user preferences are balanced. This makes it difficult to justify choosing only one mode as the universal default.
 However, since 18% (always) is still higher than 13% (never), and 37% (frequently) is higher than 32% (sometimes), the overall trend leans slightly toward higher usage. Therefore, our recommendation is to support both Dark Mode and Light Mode, while giving priority to Dark Mode based on its relatively stronger usage patterns.
@@ -156,8 +158,9 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 ### Statistics
 
-**1: Daily Preffered Mode and Confort Scale**
+We have seen Pie Graphs earlier now let us see some stastictic to understand the survey before we look in to other external study and conculsion of our survey.
 
+**1: Daily Preffered Mode and Confort Scale:** As you can see in the below graph the number of users preffer more dark vesions of the interface compared to lighter versions of the interface. The seconday data clubed with the conforscale proves that users are more confortable with dark more over the light mode as you can see the there are more mumber of users on larger unmber of comfort compared to light infrace users.
 
 <img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/StatScreen1.png" width="500" /><br><br>
 
