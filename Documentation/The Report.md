@@ -187,8 +187,8 @@ Despite these challenges, our team worked cohesively. Agile practices-especially
 
 ### Appendices
 
-[**Survay Data**](https://ibsbhu-my.sharepoint.com/:x:/g/personal/ralappatjohn_ibs-b_hu/EX6KFNZs7mFMuHn9Yf2jWzgByAWvJyreuF6S65wbMkSqKQ?e=W7QTyQ)
+- [**Survay Data**](https://ibsbhu-my.sharepoint.com/:x:/g/personal/ralappatjohn_ibs-b_hu/EX6KFNZs7mFMuHn9Yf2jWzgByAWvJyreuF6S65wbMkSqKQ?e=W7QTyQ)
 
-[**GitHub Repo**](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio)
+- [**GitHub Repo**](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio)
 
 ---
