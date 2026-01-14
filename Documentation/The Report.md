@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [ Team ]
+- [ Team ](#Team)
 	- [ Declaration ]
  	- [ Members ] 
 
