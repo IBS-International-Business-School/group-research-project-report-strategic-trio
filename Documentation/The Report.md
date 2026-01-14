@@ -22,7 +22,7 @@
 ---
 
 
-# Team Declaration
+## Team Declaration
 
 We hereby declare that the work presented in this report is the result of our team's own efforts. All research, analysis, and content have been prepared independently, and no part of this work has been copied from any unauthorized source. Any materials, ideas, or data taken from external references have been clearly cited and acknowledged.
 
@@ -33,6 +33,8 @@ Team Members:
 - Alappat John Renju
 - Sethu Nair
 - Sreeram Vikraman Nair
+
+---
 
 # Executive Summary
 
