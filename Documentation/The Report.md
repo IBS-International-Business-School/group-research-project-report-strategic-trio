@@ -164,9 +164,13 @@ We have seen Pie Graphs earlier now let us see some stastictic to understand the
 
 <img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/StatScreen1.png" width="500" />
 
+---
+
 **2: Eye Strain and Text Visiblity:** We took 2 disticint point to see if there is any connecting or prefference that we can find in combining these two vlaues to find out any standount. We see that these are different aspects and do not see sigfinicant connction betweeen these to but has releveance in other combinations.
 
 <img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/StatScreen2.png" width="500" />
+
+---
 
 <br><br>
 
