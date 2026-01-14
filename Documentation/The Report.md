@@ -1,20 +1,24 @@
-Dark Mode vs Light Mode or Both
+# Dark Mode vs Light Mode or Both
 
-[Team Declaration 1](#_Toc181749601)
+	- [Team Declaration 1](#_Toc181749601)
 
-[Executive Summary 1](#_Toc1277737381)
+	- [Executive Summary 1](#_Toc1277737381)
 
-[Introduction to definition and objective 2](#_Toc2021230979)
+	- [Introduction to definition and objective 2](#_Toc2021230979)
 
-[Data and the Results 4](#_Toc370070703)
+	- [Data and the Results 4](#_Toc370070703)
 
-[Other studies 8](#_Toc1296209708)
+	- [Other studies 8](#_Toc1296209708)
 
-[Recommendations: 9](#_Toc1325444353)
+	- [Recommendations: 9](#_Toc1325444353)
 
-[Reflection 10](#_Toc82474680)
+	- [Reflection 10](#_Toc82474680)
 
-[References and Appendices: 12](#_Toc1938331568)
+	- [References and Appendices: 12](#_Toc1938331568)
+	
+
+---
+
 
 # Team Declaration
 
