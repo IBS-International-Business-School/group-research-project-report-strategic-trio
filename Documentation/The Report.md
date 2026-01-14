@@ -90,7 +90,7 @@ Data was collected using Google Forms, where we uploaded our final set of questi
 ### Data Collection
 We have collected around 200 samples as a group from our friends and family over a period of two weeks.
 
-### Results
+### The Results
 The results suggest that the users prefer dark mode over light mode but are not significant enough to stop building applications on the light mode. On an overall 60% users prefer dark mode but again not sticking 100% on dark mode all the time.
 
 ---
@@ -123,7 +123,9 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 ![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen6.png)
 
-# Other studies
+---
+
+# Other External studies
 
 **1: Reading and Myopia: Contrast Polarity Matters.** _"We found that reading dark text on a bright background reduces choroidal thickness in one hour, while reading bright text on dark background increases the thickness of the choroid. Since choroidal thickness changes are precursors for future changes in eye growth, we expect that there will be selective effects on subsequent myopia development. However, there remain a few key questions"_
 
