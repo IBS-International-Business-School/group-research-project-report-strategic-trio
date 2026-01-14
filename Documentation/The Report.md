@@ -11,7 +11,14 @@
  	- [ Research ](#Research)
   	- [ Objectives ](#Objectives)
 
-- [Introduction to definition and objective 2](#_Toc2021230979)
+- [ Introduction ](#Introduction)
+	- [ Research subject ](@Research-subject)
+ 	- [ Objective of Survey ](@Objective-of-Survey)
+ 
+- [ The Research ](@The-Research)
+	- [ Design ](@Design)
+ 	- [ Sampling ](@Sampling)
+  	- [ Data Collection ](@Data-Collection)
 
 - [Data and the Results 4](#_Toc370070703)
 
@@ -68,7 +75,7 @@ As digital applications continue to evolve, user interface (UI) personalization 
 ### Research subject
 To design applications that meet real user needs, it is essential to understand how people actually use these modes, what they prefer, and why. This research aims to investigate user preferences for Dark Mode versus Light Mode, including how often each mode is used, which mode users prefer for everyday use, and the reasons behind those preferences.
 
-### Objective of this survey
+### Objective of Survey
 
 - To determine whether people prefer Dark Mode or Light Mode in digital applications, and to understand the factors influencing their choice.
 
