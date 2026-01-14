@@ -1,5 +1,7 @@
 # Dark Mode vs Light Mode or Both
 
+## Table of Contents
+	- [Introduction](#introduction)
 	- [Team Declaration 1](#_Toc181749601)
 
 	- [Executive Summary 1](#_Toc1277737381)
