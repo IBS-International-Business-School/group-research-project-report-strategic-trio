@@ -6,7 +6,7 @@
 	- [ Declaration ](#Declaration)
  	- [ Members ](#Members)
 
-- [ Executive Summar ](#Executive-Summary)
+- [ Executive Summary ](#Executive-Summary)
 	- [ Business Problem ](#Business-Problem)
  	- [ Research ](#Research)
   	- [ Objectives ](#Objectives)
