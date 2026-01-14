@@ -32,7 +32,7 @@
 
 - [ Reflection ](#Reflection)
 
-- [ References and Appendices ](#References and Appendices)
+- [ References and Appendices ](#References-and-Appendices)
 	- [ References ](@References)
  	- [ Appendices ](@Appendices)
 	
