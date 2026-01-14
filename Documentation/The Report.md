@@ -58,7 +58,6 @@ This study explores user preferences to determine whether digital applications s
 
 ## Introduction
 
-### Introduction
 As digital applications continue to evolve, user interface (UI) personalization has become a key factor in delivering an effective and comfortable user experience. One of the most widely adopted UI customization features is the option to switch between Dark Mode and Light Mode. While Light Mode has traditionally been the default design for most applications, Dark Mode has gained significant popularity in recent years due to perceived benefits such as reduced eye strain, better readability in low-light environments, and modern aesthetics.
 
 ### Research subject
