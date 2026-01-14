@@ -71,6 +71,7 @@ This study explores user preferences to determine whether digital applications s
 - To identify user preferences and usage patterns for Dark Mode and Light Mode across devices and contexts using simple questionnaires.
   
 - To recommend an optimal strategy that fits if we must select; Light-first, Dark-first, or both from the start-based on what people prefer to use, as captured through a survey conducted using online forms.
+
 <br><br>
 ---
 
@@ -86,6 +87,7 @@ To design applications that meet real user needs, it is essential to understand 
 - To determine whether people prefer Dark Mode or Light Mode in digital applications, and to understand the factors influencing their choice.
 
 - By gathering insights from users, this study will help guide design decisions such as whether applications should prioritize one mode, offer both modes from the start, or adopt a mode-first development approach. The findings will support creating more user-centric and accessible digital experiences.
+
 <br><br>
 ---
 
