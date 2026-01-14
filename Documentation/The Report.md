@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [ Team ](#Team)
-	- [ Declaration ]
- 	- [ Members ] 
+	- [ Declaration ](#Declaration)
+ 	- [ Members ](#Members)
 
 - [Executive Summary 1](#_Toc1277737381)
 
