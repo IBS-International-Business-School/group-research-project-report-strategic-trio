@@ -24,13 +24,13 @@
 	- [ Data Collection ](@Data-Collection)
  	- [ The Results ](@The-Results)
  
- - [ Analysis of data visilization](@Analysis-of-data-visilization)
+- [ Data Visualization Analysis ](@Data-Visualization-Analysis)
 
-- [Other studies 8](#_Toc1296209708)
+- [ Other External Studies](#Other-External-Studies)
 
-- [Recommendations: 9](#_Toc1325444353)
+- [ Recommendations ](#Recommendations)
 
-- [Reflection 10](#_Toc82474680)
+- [ Reflection ](#Reflection)
 
 - [References and Appendices: 12](#_Toc1938331568)
 	
@@ -111,7 +111,7 @@ The results suggest that the users prefer dark mode over light mode but are not 
 
 ---
 
-## Analysis of data visilization
+## Data Visualization Analysis
 
 **1: Use of dark Mode:** The data shows that 37% of users access the feature frequently, making it the largest group. The next highest is 32%, who say they use the feature sometimes, followed by 18% who report using it always.
 When we compare the extremes with the 18% who always use the feature and the 13% who never use it, the gap of just over 10% on each side indicates that user preferences are balanced. This makes it difficult to justify choosing only one mode as the universal default.
@@ -151,7 +151,7 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 ---
 
-## Other External studies
+## Other External Studies
 
 **1: Reading and Myopia: Contrast Polarity Matters.** _"We found that reading dark text on a bright background reduces choroidal thickness in one hour, while reading bright text on dark background increases the thickness of the choroid. Since choroidal thickness changes are precursors for future changes in eye growth, we expect that there will be selective effects on subsequent myopia development. However, there remain a few key questions"_
 
@@ -169,7 +169,7 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 Our survey indicates that users generally prefer Dark Mode over Light Mode, though the difference between the two is relatively small. Importantly, users often switch modes depending on context - those who prefer Dark Mode still use Light Mode in certain situations, and vice versa. Additional studies we reviewed also highlight valid reasons for choosing either mode based on specific circumstances.
 
-Based on these insights, our recommendation is that device and application developers should adopt a dual-mode design approach, supporting both Dark and Light Modes from the outset. Dark Mode can no longer be treated as an add-on feature introduced later in the design cycle; it should be incorporated as a core element of the initial design strategy, with a slight preference toward Dark Mode given its overall popularity.
+Based on these insights, **our recommendation is that device and application developers should adopt a dual-mode design approach, supporting both Dark and Light Modes from the outset**. Dark Mode can no longer be treated as an add-on feature introduced later in the design cycle; it should be incorporated as a core element of the initial design strategy, with a slight preference toward Dark Mode given its overall popularity.
 
 However, we also recognize that certain applications may justify prioritizing a single mode either Dark or Light depending on the app's purpose, target users, and usage environment. In such cases, choosing one mode can enhance clarity, usability, and user experience.
 
