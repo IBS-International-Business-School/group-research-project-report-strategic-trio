@@ -122,9 +122,8 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 **6: Comfort scale on the preferred mode:** This survey shows that users stick to the preferred mode for longer duration. Around 60% of users are between 7 and 10 which proves this point.
 
 ![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen6.png)
-<p align="center">
-  <img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen6.png" width="300" />
-</p>
+
+<img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen6.png" width="800" />
 
 ---
 
