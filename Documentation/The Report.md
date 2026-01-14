@@ -9,20 +9,20 @@
 - [ Executive Summary ](#Executive-Summary)
 	- [ Business Problem ](#Business-Problem)
  	- [ Research ](#Research)
-  	- [ Objectives ](#Objectives)<br>
+  	- [ Objectives ](#Objectives)<br><br>
 
 - [ Introduction ](#Introduction)
 	- [ Research subject ](@Research-subject)
- 	- [ Objective of Survey ](@Objective-of-Survey)<br>
+ 	- [ Objective of Survey ](@Objective-of-Survey)<br><br>
  
 - [ The Research ](@The-Research)
 	- [ Design ](@Design)
  	- [ Sampling ](@Sampling)
-  	- [ Data Collection ](@Data-Collection)<br>
+  	- [ Data Collection ](@Data-Collection)<br><br>
 
 - [ Data & Results ](#Data-&-Results)
 	- [ Data Collection ](@Data-Collection)
- 	- [ The Results ](@The-Results)<br>
+ 	- [ The Results ](@The-Results)<br><br>
  
 - [ Data Visualization Analysis ](@Data-Visualization-Analysis)
 
@@ -34,7 +34,7 @@
 
 - [ References and Appendices ](#References-and-Appendices)
 	- [ References ](@References)
- 	- [ Appendices ](@Appendices)<br>
+ 	- [ Appendices ](@Appendices)<br><br>
 	
 
 ---
@@ -53,7 +53,7 @@ We affirm that this submission is original and has not been submitted previously
 - Alappat John Renju
 - Sethu Nair
 - Sreeram Vikraman Nair
-
+<br><br>
 ---
 
 ## Executive Summary
@@ -71,7 +71,7 @@ This study explores user preferences to determine whether digital applications s
 - To identify user preferences and usage patterns for Dark Mode and Light Mode across devices and contexts using simple questionnaires.
   
 - To recommend an optimal strategy that fits if we must select; Light-first, Dark-first, or both from the start-based on what people prefer to use, as captured through a survey conducted using online forms.
-
+<br><br>
 ---
 
 ## Introduction
@@ -86,7 +86,7 @@ To design applications that meet real user needs, it is essential to understand 
 - To determine whether people prefer Dark Mode or Light Mode in digital applications, and to understand the factors influencing their choice.
 
 - By gathering insights from users, this study will help guide design decisions such as whether applications should prioritize one mode, offer both modes from the start, or adopt a mode-first development approach. The findings will support creating more user-centric and accessible digital experiences.
-
+<br><br>
 ---
 
 ## The Research
@@ -101,6 +101,7 @@ We followed a random convenience sampling approach. Instead of using a research 
 ### Data Collection
 Data was collected using Google Forms, where we uploaded our final set of questions. All questions included predefined answer options so that respondents could simply select from the available choices without typing. This ensured consistency in data and made the process simpler for participants. The survey link was then circulated digitally among our selected sample group, allowing them to complete it at their convenience.
 
+<br><br>
 ---
 
 ## Data & Results
@@ -111,6 +112,7 @@ We have collected around 200 samples as a group from our friends and family over
 ### The Results
 The results suggest that the users prefer dark mode over light mode but are not significant enough to stop building applications on the light mode. On an overall 60% users prefer dark mode but again not sticking 100% on dark mode all the time.
 
+<br><br>
 ---
 
 ## Data Visualization Analysis
@@ -165,6 +167,7 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 **5: Positive display polarity is advantageous for both younger and older adults.** "An advantage of positive polarity (dark characters on light background) over negative polarity (light characters on dark background) was expected for younger adults, but the effects on older adults were ambiguous. Light scatter due to residues in the senescent lens and vitreous humour could reverse the typical advantage of positive polarity. However, age-related changes lead to a decline in retinal illuminance."
 
+<br><br>
 ---
 
 ## Recommendations
@@ -175,6 +178,7 @@ Based on these insights, **our recommendation is that device and application dev
 
 However, we also recognize that certain applications may justify prioritizing a single mode either Dark or Light depending on the app's purpose, target users, and usage environment. In such cases, choosing one mode can enhance clarity, usability, and user experience.
 
+<br><br>
 ---
 
 ## Reflection
@@ -195,6 +199,7 @@ Another significant challenge was using GitHub and version control, as all of us
 
 Despite these challenges, our team worked cohesively. Agile practices-especially daily stand-ups and clear sprint planning-helped reduce miscommunication and ensured steady progress. The structured workflow, combined with teamwork and adaptability, allowed us to complete the project efficiently and deliver meaningful findings.
 
+<br><br>
 ---
 
 ## References and Appendices
@@ -222,4 +227,5 @@ Despite these challenges, our team worked cohesively. Agile practices-especially
 
 - [**GitHub Repo**](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio)
 
+<br><br>
 ---
