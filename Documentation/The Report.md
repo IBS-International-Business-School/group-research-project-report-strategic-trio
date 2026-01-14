@@ -32,7 +32,9 @@
 
 - [ Reflection ](#Reflection)
 
-- [References and Appendices: 12](#_Toc1938331568)
+- [ References and Appendices ](#References and Appendices)
+	- [ References ](@References)
+ 	- [ Appendices ](@Appendices)
 	
 
 ---
