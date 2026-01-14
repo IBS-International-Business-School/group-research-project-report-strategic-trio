@@ -156,6 +156,11 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 ### Statistics
 
+**1: Daily Preffered Mode and Confort Scale**
+
+
+<img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/StatScreen1.png" width="500" /><br><br>
+
 <br><br>
 
 ---
