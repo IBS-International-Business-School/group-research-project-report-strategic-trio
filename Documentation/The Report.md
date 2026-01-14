@@ -125,7 +125,7 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 ---
 
-# Other External studies
+## Other External studies
 
 **1: Reading and Myopia: Contrast Polarity Matters.** _"We found that reading dark text on a bright background reduces choroidal thickness in one hour, while reading bright text on dark background increases the thickness of the choroid. Since choroidal thickness changes are precursors for future changes in eye growth, we expect that there will be selective effects on subsequent myopia development. However, there remain a few key questions"_
 
@@ -137,7 +137,9 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 **5: Positive display polarity is advantageous for both younger and older adults.** "An advantage of positive polarity (dark characters on light background) over negative polarity (light characters on dark background) was expected for younger adults, but the effects on older adults were ambiguous. Light scatter due to residues in the senescent lens and vitreous humour could reverse the typical advantage of positive polarity. However, age-related changes lead to a decline in retinal illuminance."
 
-# Recommendations
+---
+
+## Recommendations
 
 Our survey indicates that users generally prefer Dark Mode over Light Mode, though the difference between the two is relatively small. Importantly, users often switch modes depending on context - those who prefer Dark Mode still use Light Mode in certain situations, and vice versa. Additional studies we reviewed also highlight valid reasons for choosing either mode based on specific circumstances.
 
@@ -145,7 +147,7 @@ Based on these insights, our recommendation is that device and application devel
 
 However, we also recognize that certain applications may justify prioritizing a single mode either Dark or Light depending on the app's purpose, target users, and usage environment. In such cases, choosing one mode can enhance clarity, usability, and user experience.
 
-# Reflection
+## Reflection
 
 **Team Process:** Our team applied key Agile principles throughout the project to maintain steady progress and effective collaboration. We held a 15-minute daily stand-up to share updates, identify challenges, and move tasks across our planning board. We also conducted weekly sprint planning sessions to define our goals and allocate responsibilities for the upcoming week. At the end of each sprint, we held retrospectives to reflect on what went well, what needed improvement, and how we could adjust our approach moving forward.
 
@@ -163,20 +165,30 @@ Another significant challenge was using GitHub and version control, as all of us
 
 Despite these challenges, our team worked cohesively. Agile practices-especially daily stand-ups and clear sprint planning-helped reduce miscommunication and ensured steady progress. The structured workflow, combined with teamwork and adaptability, allowed us to complete the project efficiently and deliver meaningful findings.
 
-# References and Appendices
+## References and Appendices
 
-**References**
+### References
 
 - Aleman, A., Wang, M. & Schaeffel, F. (2018) 'Reading and myopia: Contrast polarity matters', _Scientific Reports_, 8, p.10840. doi:10.1038/s41598-018-28904-x.
+
 - Dobres, J., Chahine, N. & Reimer, B. (2017) 'Effects of ambient illumination, contrast polarity, and letter size on text legibility under glance-like reading', _Applied Ergonomics_. doi:10.1016/j.apergo.2016.11.001.
+
 - Legge, G.E., Rubin, G.S., Pelli, D.G. & Schleske, M.M. (1985) 'Psychophysics of reading - II. Low vision', _Vision Research_.
+
 - Papadopoulos, K.S. & Goudiras, D.B. (2005) 'Accessibility assistance for visually-impaired people in digital texts', _British Journal of Visual Impairment_, 23(2), pp. 75-83. doi:10.1177/0264619605054779.
+
 - Piepenbrock, C., Mayr, S., Mund, I. & Buchner, A. (2013) 'Positive display polarity is advantageous for both younger and older adults', _Ergonomics_, 56(7), pp. 1238-1248. doi:10.1080/00140139.2013.790485.
+
 - ChatGPT (2025) Used for spell check, grammar check, and polishing the language. Available at: [https://chat.openai.com](https://chat.openai.com/) (Accessed: \[28 Nov 2025\]).
+
 - Google Search (2025) Used to find research on related topics. Available at: [https://www.google.com](https://www.google.com/) (Accessed: \[26 Nov 2025\]).
 
-**Appendices:**
+---
+
+### Appendices
 
 [**Survay Data**](https://ibsbhu-my.sharepoint.com/:x:/g/personal/ralappatjohn_ibs-b_hu/EX6KFNZs7mFMuHn9Yf2jWzgByAWvJyreuF6S65wbMkSqKQ?e=W7QTyQ)
 
 [**GitHub Repo**](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio)
+
+---
