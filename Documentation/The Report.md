@@ -52,8 +52,7 @@ We affirm that this submission is original and has not been submitted previously
 
 - Alappat John Renju
 - Sethu Nair
-- Sreeram Vikraman Nair
-<br><br>
+- Sreeram Vikraman Nair<br><br>
 ---
 
 ## Executive Summary
@@ -70,9 +69,7 @@ This study explores user preferences to determine whether digital applications s
 
 - To identify user preferences and usage patterns for Dark Mode and Light Mode across devices and contexts using simple questionnaires.
   
-- To recommend an optimal strategy that fits if we must select; Light-first, Dark-first, or both from the start-based on what people prefer to use, as captured through a survey conducted using online forms.
-
-<br><br>
+- To recommend an optimal strategy that fits if we must select; Light-first, Dark-first, or both from the start-based on what people prefer to use, as captured through a survey conducted using online forms.<br><br>
 ---
 
 ## Introduction
@@ -86,9 +83,7 @@ To design applications that meet real user needs, it is essential to understand 
 
 - To determine whether people prefer Dark Mode or Light Mode in digital applications, and to understand the factors influencing their choice.
 
-- By gathering insights from users, this study will help guide design decisions such as whether applications should prioritize one mode, offer both modes from the start, or adopt a mode-first development approach. The findings will support creating more user-centric and accessible digital experiences.
-
-<br><br>
+- By gathering insights from users, this study will help guide design decisions such as whether applications should prioritize one mode, offer both modes from the start, or adopt a mode-first development approach. The findings will support creating more user-centric and accessible digital experiences.<br><br>
 ---
 
 ## The Research
@@ -101,9 +96,7 @@ During our discussions, we initially considered conducting a large and detailed 
 We followed a random convenience sampling approach. Instead of using a research agency or collecting responses from a large and diverse population, we shared the survey with friends and family members. While the sample size may not be enough for publishing a professional research paper, it was appropriate for this project's scope. The main objective was to understand the survey process, analyze the responses collected, and link our observations with existing studies, including those related to age-based preferences.
 
 ### Data Collection
-Data was collected using Google Forms, where we uploaded our final set of questions. All questions included predefined answer options so that respondents could simply select from the available choices without typing. This ensured consistency in data and made the process simpler for participants. The survey link was then circulated digitally among our selected sample group, allowing them to complete it at their convenience.
-
-<br><br>
+Data was collected using Google Forms, where we uploaded our final set of questions. All questions included predefined answer options so that respondents could simply select from the available choices without typing. This ensured consistency in data and made the process simpler for participants. The survey link was then circulated digitally among our selected sample group, allowing them to complete it at their convenience.<br><br>
 ---
 
 ## Data & Results
@@ -112,9 +105,7 @@ Data was collected using Google Forms, where we uploaded our final set of questi
 We have collected around 200 samples as a group from our friends and family over a period of two weeks.
 
 ### The Results
-The results suggest that the users prefer dark mode over light mode but are not significant enough to stop building applications on the light mode. On an overall 60% users prefer dark mode but again not sticking 100% on dark mode all the time.
-
-<br><br>
+The results suggest that the users prefer dark mode over light mode but are not significant enough to stop building applications on the light mode. On an overall 60% users prefer dark mode but again not sticking 100% on dark mode all the time.<br><br>
 ---
 
 ## Data Visualization Analysis
@@ -167,9 +158,7 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 **4: Accessibility Assistance for Visually-Impaired People in Digital Texts.** "This article describes the effective colour contrast and legible text required by visually-impaired students and presents a new tool, not intended merely to provide another form of computer access for the partially sighted, but to offer a means of education in the regular classroom."
 
-**5: Positive display polarity is advantageous for both younger and older adults.** "An advantage of positive polarity (dark characters on light background) over negative polarity (light characters on dark background) was expected for younger adults, but the effects on older adults were ambiguous. Light scatter due to residues in the senescent lens and vitreous humour could reverse the typical advantage of positive polarity. However, age-related changes lead to a decline in retinal illuminance."
-
-<br><br>
+**5: Positive display polarity is advantageous for both younger and older adults.** "An advantage of positive polarity (dark characters on light background) over negative polarity (light characters on dark background) was expected for younger adults, but the effects on older adults were ambiguous. Light scatter due to residues in the senescent lens and vitreous humour could reverse the typical advantage of positive polarity. However, age-related changes lead to a decline in retinal illuminance."<br><br>
 ---
 
 ## Recommendations
@@ -178,9 +167,7 @@ Our survey indicates that users generally prefer Dark Mode over Light Mode, thou
 
 Based on these insights, **our recommendation is that device and application developers should adopt a dual-mode design approach, supporting both Dark and Light Modes from the outset**. Dark Mode can no longer be treated as an add-on feature introduced later in the design cycle; it should be incorporated as a core element of the initial design strategy, with a slight preference toward Dark Mode given its overall popularity.
 
-However, we also recognize that certain applications may justify prioritizing a single mode either Dark or Light depending on the app's purpose, target users, and usage environment. In such cases, choosing one mode can enhance clarity, usability, and user experience.
-
-<br><br>
+However, we also recognize that certain applications may justify prioritizing a single mode either Dark or Light depending on the app's purpose, target users, and usage environment. In such cases, choosing one mode can enhance clarity, usability, and user experience.<br><br>
 ---
 
 ## Reflection
@@ -199,9 +186,7 @@ The **survey** ran from 6 Nov to 20 Nov, and all team members submitted their in
 
 Another significant challenge was using GitHub and version control, as all of us were new to these tools. Setting it up, understanding branching, and merging files initially caused delays and confusion. However, with patience, internal guidance, and continuous experimentation, we gradually became more comfortable with the tool. Overcoming this learning curve was a key success in our collaboration.
 
-Despite these challenges, our team worked cohesively. Agile practices-especially daily stand-ups and clear sprint planning-helped reduce miscommunication and ensured steady progress. The structured workflow, combined with teamwork and adaptability, allowed us to complete the project efficiently and deliver meaningful findings.
-
-<br><br>
+Despite these challenges, our team worked cohesively. Agile practices-especially daily stand-ups and clear sprint planning-helped reduce miscommunication and ensured steady progress. The structured workflow, combined with teamwork and adaptability, allowed us to complete the project efficiently and deliver meaningful findings.<br><br>
 ---
 
 ## References and Appendices
@@ -227,7 +212,5 @@ Despite these challenges, our team worked cohesively. Agile practices-especially
 
 - [**Survay Data**](https://ibsbhu-my.sharepoint.com/:x:/g/personal/ralappatjohn_ibs-b_hu/EX6KFNZs7mFMuHn9Yf2jWzgByAWvJyreuF6S65wbMkSqKQ?e=W7QTyQ)
 
-- [**GitHub Repo**](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio)
-
-<br><br>
+- [**GitHub Repo**](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio)<br><br>
 ---
