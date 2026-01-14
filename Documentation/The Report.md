@@ -162,7 +162,11 @@ We have seen Pie Graphs earlier now let us see some stastictic to understand the
 
 **1: Daily Preffered Mode and Confort Scale:** As you can see in the below graph the number of users preffer more dark vesions of the interface compared to lighter versions of the interface. The seconday data clubed with the conforscale proves that users are more confortable with dark more over the light mode as you can see the there are more mumber of users on larger unmber of comfort compared to light infrace users.
 
-<img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/StatScreen1.png" width="500" /><br><br>
+<img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/StatScreen1.png" width="500" />
+
+**2: Eye Strain and Text Visiblity:** We took 2 disticint point to see if there is any connecting or prefference that we can find in combining these two vlaues to find out any standount. We see that these are different aspects and do not see sigfinicant connction betweeen these to but has releveance in other combinations.
+
+<img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/StatScreen2.png" width="500" />
 
 <br><br>
 
