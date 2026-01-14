@@ -117,13 +117,11 @@ However, since 18% (always) is still higher than 13% (never), and 37% (frequentl
 
 **5: Readability of Dark vs Light:** 30% of the users in that largest group say there is no difference in dark or light. On the questions on better or worse with dark screens users prefer the darker screen.
 
-![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen5.png)
+<img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen5.png" width="700" />
 
 **6: Comfort scale on the preferred mode:** This survey shows that users stick to the preferred mode for longer duration. Around 60% of users are between 7 and 10 which proves this point.
 
-![](https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen6.png)
-
-<img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen6.png" width="800" />
+<img src="https://github.com/IBS-International-Business-School/group-research-project-report-strategic-trio/blob/main/Documentation/Image/Screen6.png" width="700" />
 
 ---
 
