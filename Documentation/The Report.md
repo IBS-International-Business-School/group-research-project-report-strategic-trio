@@ -1,22 +1,22 @@
 # Dark Mode vs Light Mode or Both
 
 ## Table of Contents
-- [Introduction](#introduction)
-	- [Team Declaration 1](#_Toc181749601)
 
-	- [Executive Summary 1](#_Toc1277737381)
+- [Team Declaration 1](#_Toc181749601)
 
-	- [Introduction to definition and objective 2](#_Toc2021230979)
+- [Executive Summary 1](#_Toc1277737381)
 
-	- [Data and the Results 4](#_Toc370070703)
+- [Introduction to definition and objective 2](#_Toc2021230979)
 
-	- [Other studies 8](#_Toc1296209708)
+- [Data and the Results 4](#_Toc370070703)
 
-	- [Recommendations: 9](#_Toc1325444353)
+- [Other studies 8](#_Toc1296209708)
 
-	- [Reflection 10](#_Toc82474680)
+- [Recommendations: 9](#_Toc1325444353)
 
-	- [References and Appendices: 12](#_Toc1938331568)
+- [Reflection 10](#_Toc82474680)
+
+- [References and Appendices: 12](#_Toc1938331568)
 	
 
 ---
