@@ -4,25 +4,25 @@
 
 - [ Team ](#Team)
 	- [ Declaration ](#Declaration)
- 	- [ Members ](#Members)
+ 	- [ Members ](#Members)<br>
 
 - [ Executive Summary ](#Executive-Summary)
 	- [ Business Problem ](#Business-Problem)
  	- [ Research ](#Research)
-  	- [ Objectives ](#Objectives)
+  	- [ Objectives ](#Objectives)<br>
 
 - [ Introduction ](#Introduction)
 	- [ Research subject ](@Research-subject)
- 	- [ Objective of Survey ](@Objective-of-Survey)
+ 	- [ Objective of Survey ](@Objective-of-Survey)<br>
  
 - [ The Research ](@The-Research)
 	- [ Design ](@Design)
  	- [ Sampling ](@Sampling)
-  	- [ Data Collection ](@Data-Collection)
+  	- [ Data Collection ](@Data-Collection)<br>
 
 - [ Data & Results ](#Data-&-Results)
 	- [ Data Collection ](@Data-Collection)
- 	- [ The Results ](@The-Results)
+ 	- [ The Results ](@The-Results)<br>
  
 - [ Data Visualization Analysis ](@Data-Visualization-Analysis)
 
@@ -34,7 +34,7 @@
 
 - [ References and Appendices ](#References-and-Appendices)
 	- [ References ](@References)
- 	- [ Appendices ](@Appendices)
+ 	- [ Appendices ](@Appendices)<br>
 	
 
 ---
