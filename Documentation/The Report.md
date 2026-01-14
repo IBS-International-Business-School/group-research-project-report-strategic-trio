@@ -22,13 +22,15 @@
 ---
 
 
-## Team Declaration
+## Team
 
+### Team Declaration
 We hereby declare that the work presented in this report is the result of our team's own efforts. All research, analysis, and content have been prepared independently, and no part of this work has been copied from any unauthorized source. Any materials, ideas, or data taken from external references have been clearly cited and acknowledged.
 
 We affirm that this submission is original and has not been submitted previously for academic credit or professional evaluation.
 
-Team Members:
+
+### Team Members:
 
 - Alappat John Renju
 - Sethu Nair
@@ -54,26 +56,37 @@ This study explores user preferences to determine whether digital applications s
 
 ---
 
-# Introduction to definition and objective
+## Introduction
 
-**Introduction:** As digital applications continue to evolve, user interface (UI) personalization has become a key factor in delivering an effective and comfortable user experience. One of the most widely adopted UI customization features is the option to switch between Dark Mode and Light Mode. While Light Mode has traditionally been the default design for most applications, Dark Mode has gained significant popularity in recent years due to perceived benefits such as reduced eye strain, better readability in low-light environments, and modern aesthetics.
+### Introduction
+As digital applications continue to evolve, user interface (UI) personalization has become a key factor in delivering an effective and comfortable user experience. One of the most widely adopted UI customization features is the option to switch between Dark Mode and Light Mode. While Light Mode has traditionally been the default design for most applications, Dark Mode has gained significant popularity in recent years due to perceived benefits such as reduced eye strain, better readability in low-light environments, and modern aesthetics.
 
-**Research subject:** To design applications that meet real user needs, it is essential to understand how people actually use these modes, what they prefer, and why. This research aims to investigate user preferences for Dark Mode versus Light Mode, including how often each mode is used, which mode users prefer for everyday use, and the reasons behind those preferences.
+### Research subject
+To design applications that meet real user needs, it is essential to understand how people actually use these modes, what they prefer, and why. This research aims to investigate user preferences for Dark Mode versus Light Mode, including how often each mode is used, which mode users prefer for everyday use, and the reasons behind those preferences.
 
-**Objective of this survey:**
+### Objective of this survey
 
 - To determine whether people prefer Dark Mode or Light Mode in digital applications, and to understand the factors influencing their choice.
+
 - By gathering insights from users, this study will help guide design decisions such as whether applications should prioritize one mode, offer both modes from the start, or adopt a mode-first development approach. The findings will support creating more user-centric and accessible digital experiences.
 
-**Research:** We began the study by preparing a comprehensive set of questions related to Dark Mode and Light Mode usage. Each team member contributed their own ideas, and additional questions were generated with the help of AI tools. Once we had a substantial list, we reviewed all the questions together, grouped related items, and removed duplicates. This process ensured that the final set of survey questions was focused, relevant, and non-repetitive.
+---
 
-**Design:** During our discussions, we initially considered conducting a large and detailed survey. However, we recognized that longer surveys often lead to respondent fatigue and incomplete submissions. To encourage higher completion rates, we decided to keep the questionnaire concise with a total of nine questions. These questions were to understand whether people prefer Dark Mode or Light Mode, without collecting any personal or identifiable details. Our goal was to maintain participant comfort while still gathering meaningful data.
+## The Research
+We began the study by preparing a comprehensive set of questions related to Dark Mode and Light Mode usage. Each team member contributed their own ideas, and additional questions were generated with the help of AI tools. Once we had a substantial list, we reviewed all the questions together, grouped related items, and removed duplicates. This process ensured that the final set of survey questions was focused, relevant, and non-repetitive.
 
-**Sampling:** We followed a random convenience sampling approach. Instead of using a research agency or collecting responses from a large and diverse population, we shared the survey with friends and family members. While the sample size may not be enough for publishing a professional research paper, it was appropriate for this project's scope. The main objective was to understand the survey process, analyze the responses collected, and link our observations with existing studies, including those related to age-based preferences.
+### Design
+During our discussions, we initially considered conducting a large and detailed survey. However, we recognized that longer surveys often lead to respondent fatigue and incomplete submissions. To encourage higher completion rates, we decided to keep the questionnaire concise with a total of nine questions. These questions were to understand whether people prefer Dark Mode or Light Mode, without collecting any personal or identifiable details. Our goal was to maintain participant comfort while still gathering meaningful data.
 
-**Data Collection:** Data was collected using Google Forms, where we uploaded our final set of questions. All questions included predefined answer options so that respondents could simply select from the available choices without typing. This ensured consistency in data and made the process simpler for participants. The survey link was then circulated digitally among our selected sample group, allowing them to complete it at their convenience.
+### Sampling
+We followed a random convenience sampling approach. Instead of using a research agency or collecting responses from a large and diverse population, we shared the survey with friends and family members. While the sample size may not be enough for publishing a professional research paper, it was appropriate for this project's scope. The main objective was to understand the survey process, analyze the responses collected, and link our observations with existing studies, including those related to age-based preferences.
 
-# Data and the Results
+### Data Collection
+Data was collected using Google Forms, where we uploaded our final set of questions. All questions included predefined answer options so that respondents could simply select from the available choices without typing. This ensured consistency in data and made the process simpler for participants. The survey link was then circulated digitally among our selected sample group, allowing them to complete it at their convenience.
+
+---
+
+## Data and the Results
 
 **Data Collection:** We have collected around 200 samples as a group from our friends and family over a period of two weeks.
 
