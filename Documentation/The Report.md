@@ -2,7 +2,9 @@
 
 ## Table of Contents
 
-- [Team Declaration 1](#_Toc181749601)
+- [ Team ]
+	- [ Declaration ]
+ 	- [ Members ] 
 
 - [Executive Summary 1](#_Toc1277737381)
 
@@ -24,13 +26,13 @@
 
 ## Team
 
-### Team Declaration
+### Declaration
 We hereby declare that the work presented in this report is the result of our team's own efforts. All research, analysis, and content have been prepared independently, and no part of this work has been copied from any unauthorized source. Any materials, ideas, or data taken from external references have been clearly cited and acknowledged.
 
 We affirm that this submission is original and has not been submitted previously for academic credit or professional evaluation.
 
 
-### Team Members:
+### Members
 
 - Alappat John Renju
 - Sethu Nair
