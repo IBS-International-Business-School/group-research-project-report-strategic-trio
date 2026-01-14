@@ -6,7 +6,10 @@
 	- [ Declaration ](#Declaration)
  	- [ Members ](#Members)
 
-- [Executive Summary 1](#_Toc1277737381)
+- [ Executive Summar ](#Executive Summary)
+	- [ Business Problem ](#Business Problem)
+ 	- [ Research ](#Research)
+  	- [ Objectives ](#Objectives)
 
 - [Introduction to definition and objective 2](#_Toc2021230979)
 
@@ -42,15 +45,15 @@ We affirm that this submission is original and has not been submitted previously
 
 ## Executive Summary
 
-### Business Problem:
+### Business Problem
 Modern digital products must meet the expectations of a wide and diverse user base. One of the key decisions made during application development is whether to design the interface in Light Mode first, Dark Mode first, or to build both modes simultaneously. Although Light Mode has traditionally been the default, user behavior has changed significantly in recent years, with many users preferring Dark Mode for reasons such as reduced eye strain, better readability in low-light environments, and modern visual appeal.
 
 When teams follow the conventional Light-first approach and add Dark Mode support later, they often face challenges. These include inconsistent visual design, duplicated effort, increased development time, and the need for additional testing to ensure both modes function correctly. As a result, there is growing interest in understanding whether a dual-mode or Dark-first approach should be considered from the beginning of the design cycle. Making the right decision early can lead to a smoother development process and a better overall user experience.
 
-### Research Objectives:
+### Research
 This study explores user preferences to determine whether digital applications should be designed with only Dark Mode or with both Dark and Light modes from the start, rather than adopting the traditional Light-first method. The research aims to capture how users interact with these modes and what they expect from modern interfaces.
 
-### Objectives:
+### Objectives
 
 - To identify user preferences and usage patterns for Dark Mode and Light Mode across devices and contexts using simple questionnaires.
   
