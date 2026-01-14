@@ -87,10 +87,15 @@ Data was collected using Google Forms, where we uploaded our final set of questi
 
 ## Data and the Results
 
-**Data Collection:** We have collected around 200 samples as a group from our friends and family over a period of two weeks.
+### Data Collection
+We have collected around 200 samples as a group from our friends and family over a period of two weeks.
 
-**Results:** The results suggest that the users prefer dark mode over light mode but are not significant enough to stop building applications on the light mode. On an overall 60% users prefer dark mode but again not sticking 100% on dark mode all the time.
+### Results
+The results suggest that the users prefer dark mode over light mode but are not significant enough to stop building applications on the light mode. On an overall 60% users prefer dark mode but again not sticking 100% on dark mode all the time.
 
+---
+
+## Analysis of data visilization
 **1: Use of dark Mode:** The data shows that 37% of users access the feature frequently, making it the largest group. The next highest is 32%, who say they use the feature sometimes, followed by 18% who report using it always.
 When we compare the extremes with the 18% who always use the feature and the 13% who never use it, the gap of just over 10% on each side indicates that user preferences are balanced. This makes it difficult to justify choosing only one mode as the universal default.
 However, since 18% (always) is still higher than 13% (never), and 37% (frequently) is higher than 32% (sometimes), the overall trend leans slightly toward higher usage. Therefore, our recommendation is to support both Dark Mode and Light Mode, while giving priority to Dark Mode based on its relatively stronger usage patterns.
